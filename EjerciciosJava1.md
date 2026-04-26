@@ -14,7 +14,7 @@ Para realizar esta AA, utilizamos la plataforma HackerRank, la cual nos proporci
 
 ### 💡 NIVEL BÁSICO
 
-#### Ejercicio 1 (Java If-Else)
+## Ejercicio 1 (Java If-Else)
 
 En este desafío, ponemos a prueba tus conocimientos sobre el uso if-else Declaraciones condicionales para automatizar los procesos de toma de decisiones. 
 
@@ -76,4 +76,12 @@ public class Solucion {
 
 ```
 Este código es ideal para principiantes porque transforma reglas matemáticas en lógica de decisión. Su mayor beneficio es que enseña a estructurar el pensamiento mediante el uso de condicionales y rangos, entendiendo cómo la computadora evalúa estados (par o impar) y límites numéricos.
+
+* Comprobación por HackerRank
+
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1494512379105509467/1498075985688531065/image.png?ex=69efd77b&is=69ee85fb&hm=ffe41c8c1fbb828267a912e1accf3acc5851a6faacdb92be7d084b92c5d1529e&" alt="Ejercicio 1">
+</div>
+
+
 
