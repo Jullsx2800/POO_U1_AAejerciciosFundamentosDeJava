@@ -25,7 +25,7 @@ En la tercera línea, imprimir Int: seguido por el inalterado entero leído desd
 
 | N° | Dato de Entrada | Dato de Salida |
 | :---: | :---: | :---: |
-| 1 | 42 - 3.1415 - Welcome to HackerRank's Java tutorials! | String: Welcome to HackerRank's Java tutorials! - Double: 3.1415 - Int: 42 |
+| 1 | 42 <br> 3.1415 <br> Welcome to HackerRank's Java tutorials! | String: Welcome to HackerRank's Java tutorials! <br> Double: 3.1415 <br> Int: 42 |
 
 
 ## Código Fuente
