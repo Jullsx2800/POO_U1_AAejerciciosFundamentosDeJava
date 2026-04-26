@@ -21,7 +21,7 @@ La segunda columna contiene el entero, expresado exactamente 3 dígitos; si la e
 
 | N° | Dato de Entrada | Dato de Salida |
 | :---: | :---: | :---: |
-| 1 | java 100 - cpp 65 - python 50 | java       100 - cpp        065 - python     050  |
+| 1 | java 100 <br> cpp 65 <br> python 50 | java       100 <br> cpp        065 <br> python     050  |
 
 
 ## Código Fuente
