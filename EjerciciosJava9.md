@@ -72,3 +72,7 @@ Este código es fundamental para principiantes porque introduce el concepto de c
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1494512379105509467/1498105570152943807/image.png?ex=69eff309&is=69eea189&hm=6d3137603cdee41cddef2e81ac6d9d0f6aa9b7652264dc744218fb203cbd5d7a&" alt="Ejercicio 9">
 </div>
+
+<p align="right">
+  <a href="PortadaEjercicios.md">Volver a la página principal</a>
+</p>
