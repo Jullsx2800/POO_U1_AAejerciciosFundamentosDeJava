@@ -67,5 +67,7 @@ Este código es ideal para principiantes porque transforma reglas matemáticas e
   <img src="https://cdn.discordapp.com/attachments/1494512379105509467/1498075985688531065/image.png?ex=69efd77b&is=69ee85fb&hm=ffe41c8c1fbb828267a912e1accf3acc5851a6faacdb92be7d084b92c5d1529e&" alt="Ejercicio 1">
 </div>
 
-
+<p align="right">
+  <a href="PortadaEjercicios.md">Volver a la página principal</a>
+</p>
 
