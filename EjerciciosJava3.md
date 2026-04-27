@@ -52,3 +52,7 @@ Este código es fundamental para principiantes porque introduce el manejo de sal
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1494512379105509467/1498084562285236245/image.png?ex=69efdf78&is=69ee8df8&hm=2d169f0a1b4b5b8e1b82be592a19b70670212800252627dfbf8867de64b2db95&" alt="Ejercicio 3">
 </div>
+
+<p align="right">
+  <a href="PortadaEjercicios.md">Volver a la página principal</a>
+</p>
