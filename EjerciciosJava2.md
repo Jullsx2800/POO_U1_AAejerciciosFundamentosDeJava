@@ -59,3 +59,7 @@ Este código es fundamental para principiantes porque enseña la gestión poliva
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1494512379105509467/1498079191579754556/image.png?ex=69efda78&is=69ee88f8&hm=35272c3e9707bd1dc513400a8d2136c8df95fec91dbdda85a3166000cad7fc58&" alt="Ejercicio 2">
 </div>
+
+<p align="right">
+  <a href="PortadaEjercicios.md">Volver a la página principal</a>
+</p>
