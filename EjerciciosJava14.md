@@ -85,3 +85,7 @@ Este código es fundamental para principiantes porque introduce el manejo de obj
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1494512379105509467/1498119737547292803/image.png?ex=69f0003b&is=69eeaebb&hm=719e2634fb84da7dddaae09a578dce60a77570bf76355dafd828c6fee1cf7462&" alt="Ejercicio 14">
 </div>
+
+<p align="right">
+  <a href="PortadaEjercicios.md">Volver a la página principal</a>
+</p>
