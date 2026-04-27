@@ -6,6 +6,16 @@
 
 --- 
 
+Estudiante: Julian Merino
+
+Fecha: 27/04/2026
+
+Docente: Ing.Wilman Chamba
+
+Ciclo: 2
+
+Asignatura: Programacion Orientada a Objetos
+
 ## 🎯 Retos HackerRank
 
 Para realizar esta AA, utilizamos la plataforma HackerRank, la cual nos proporcionará ejercicios para practicar diferentes cualidades esenciales para programar en Java (sintaxis, lógica, etc.).
