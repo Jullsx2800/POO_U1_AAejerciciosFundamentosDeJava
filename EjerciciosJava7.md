@@ -49,3 +49,7 @@ Este código es fundamental para principiantes porque introduce el manejo de buc
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1494512379105509467/1498099605567443154/image.png?ex=69efed7b&is=69ee9bfb&hm=cdad713c30a167b172b40cf7bb717aa1ec393af0cca5a09596eacc7db9c8fd26&" alt="Ejercicio 3">
 </div>
+
+ <p align="right">
+  <a href="PortadaEjercicios.md">Volver a la página principal</a>
+</p>
