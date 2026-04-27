@@ -63,3 +63,7 @@ Este código es fundamental para principiantes porque introduce el concepto clav
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1494512379105509467/1498089604811587694/image.png?ex=69efe42a&is=69ee92aa&hm=ecad726ff6512b56871f0e8c901cc40f58684a446a0173c8fddd4e35483be4e1&" alt="Ejercicio 4">
 </div>
+
+<p align="right">
+  <a href="PortadaEjercicios.md">Volver a la página principal</a>
+</p>
