@@ -70,3 +70,7 @@ Este código es fundamental para principiantes porque enseña la gestión de tip
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1494512379105509467/1498095865317949641/image.png?ex=69efe9ff&is=69ee987f&hm=55cd677fcadccf8e6cad6587257303f0d9bbd602cfd021dc92c879d64707b23c&" alt="Ejercicio 6">
 </div>
+
+<p align="right">
+  <a href="PortadaEjercicios.md">Volver a la página principal</a>
+</p>
