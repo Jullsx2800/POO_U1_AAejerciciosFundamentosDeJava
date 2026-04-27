@@ -1,4 +1,4 @@
-# Ejercicio 10 (Tag Content Extractor)
+# Ejercicio 11 (Tag Content Extractor)
 
 En un lenguaje basado en etiquetas como XML o HTML, el contenido está encerrado entre a etiqueta de inicio y un etiqueta final como <tag>contents</tag>.
 
