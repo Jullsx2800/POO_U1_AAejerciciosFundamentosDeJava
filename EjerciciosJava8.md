@@ -73,3 +73,7 @@ Este código es fundamental para principiantes porque introduce el concepto de b
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1494512379105509467/1498102344615727234/image.png?ex=69eff008&is=69ee9e88&hm=17eae7ca3a75eaf46def0a3a5953a3209a4f804793a8968f4c0245bd6c272f1a&" alt="Ejercicio 3">
 </div>
+
+<p align="right">
+  <a href="PortadaEjercicios.md">Volver a la página principal</a>
+</p>
