@@ -1,4 +1,4 @@
-# Ejercicio 11 (Java BigDecimal)
+# Ejercicio 12 (Java BigDecimal)
 
 La clase BigDecimal de Java puede manejar números decimales con signo de precisión arbitraria. ¡Pongamos a prueba tus conocimientos sobre ellos!
 
@@ -63,5 +63,5 @@ Este código es fundamental para principiantes porque introduce el uso de BigDec
 ## Comprobación por HackerRank
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1494512379105509467/1498112458458665121/image.png?ex=69eff973&is=69eea7f3&hm=0c3a919c4e8d8ee2797cc79ebf2af5577dfd720f60492846e9c888233c9adddc&" alt="Ejercicio 11">
+  <img src="https://cdn.discordapp.com/attachments/1494512379105509467/1498112458458665121/image.png?ex=69eff973&is=69eea7f3&hm=0c3a919c4e8d8ee2797cc79ebf2af5577dfd720f60492846e9c888233c9adddc&" alt="Ejercicio 12">
 </div>
