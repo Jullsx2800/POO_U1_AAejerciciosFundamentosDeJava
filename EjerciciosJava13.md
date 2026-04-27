@@ -72,3 +72,7 @@ Este código es fundamental para principiantes porque introduce la estructura de
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1494512379105509467/1498117595801583727/image.png?ex=69effe3c&is=69eeacbc&hm=fea1f6050a9a8410730140a0a00bf96a078b7c611da657d36a139f2151c835fd&" alt="Ejercicio 13">
 </div>
+
+<p align="right">
+  <a href="PortadaEjercicios.md">Volver a la página principal</a>
+</p>
