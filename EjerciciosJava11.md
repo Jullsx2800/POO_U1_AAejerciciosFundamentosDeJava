@@ -81,5 +81,5 @@ Este código es fundamental para principiantes porque introduce el uso de Expres
 ## Comprobación por HackerRank
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1494512379105509467/1498110142493884496/image.png?ex=69eff74b&is=69eea5cb&hm=4f53b1e39466d6dde46da9bb4463b7c862cb89255aa2e6d05f8049ef59652001&" alt="Ejercicio 10">
+  <img src="https://cdn.discordapp.com/attachments/1494512379105509467/1498110142493884496/image.png?ex=69eff74b&is=69eea5cb&hm=4f53b1e39466d6dde46da9bb4463b7c862cb89255aa2e6d05f8049ef59652001&" alt="Ejercicio 11">
 </div>
