@@ -1,85 +1,79 @@
-# Ejercicio 10 (Tag Content Extractor)
+# Ejercicio 10 (Date and Time in Java )
 
-En un lenguaje basado en etiquetas como XML o HTML, el contenido está encerrado entre a etiqueta de inicio y un etiqueta final como <tag>contents</tag>.
+El Clase de calendario es una clase abstracta que proporciona métodos para convertir entre un instante específico en el tiempo y un conjunto de campos de calendario como AÑO, MES, DÍA_DE_MES, HORA, etc.
 
 ## Descripción
 
 -Formato de entrada
 
-La primera línea de entrada contiene un solo número entero, N (el número de líneas).
-El N Las líneas subsiguientes contienen cada una una línea de texto.
+Una única línea de entrada que contiene el espacio separado mes, día y año, respectivamente, en MM/DD/YYYY formato.
 
 -Restricciones
 
-1 <= N <= 100
+2000 < year < 3000
 
-Cada línea contiene un máximo de 10^4 caracteres imprimibles.
-
-El número total de caracteres en todos los casos de prueba no excederá 10^6
 
 -Formato de salida
 
-Para cada línea, imprima el contenido incluido dentro de etiquetas válidas.
-
-Si una línea contiene varias instancias de contenido válido, imprima cada instancia de contenido válido en una nueva línea; si no se encuentra contenido válido, imprima None.
+cadena: El día de la semana en letras mayúsculas
 
 
 ## Datos de Entrada y Salida
 
-+ Datos de entrada 
-
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1494512379105509467/1498108972643913828/image.png?ex=69eff634&is=69eea4b4&hm=12e597a7fc87cc275e71d22ff074bc7786d1f6b333e207ce2008ff0be2b11a4b&" alt="DE">
-</div>
-
-+ Datos de salida
-
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1494512379105509467/1498109587851579522/image.png?ex=69eff6c7&is=69eea547&hm=ea2bfd36dc7ba5d420939dc9cebb47e31bd76c8c9b2e05a5c70022c0685b96e2&" alt="DS">
-</div>
+| N° | Dato de Entrada | Dato de Salida |
+| :---: | :---: | :---: |
+| 1 | 08 05 2015 | WEDNESDAY |
 
 ## Código Fuente
 
 ```
 //Julian Merino
 import java.io.*;
-import java.util.*;
-import java.text.*;
 import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.function.*;
 import java.util.regex.*;
+import java.util.stream.*;
+import static java.util.stream.Collectors.joining;
+import static java.util.stream.Collectors.toList;
+
+class Result {
+    public static String findDay(int month, int day, int year) {
+        Calendar Cal = Calendar.getInstance();
+        Cal.set(year, month - 1, day);
+        return Cal.getDisplayName(Calendar.DAY_OF_WEEK, Calendar.LONG, Locale.US).toUpperCase();
+    }
+}
 
 public class Solution {
-    public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        int testCases = Integer.parseInt(in.nextLine());
-        
-        // Expresión regular para encontrar etiquetas y su contenido
-        Pattern tagPattern = Pattern.compile("<([^>]+)>([^<]+)</\\1>");
-        
-        while (testCases > 0) {
-            String line = in.nextLine();
-            Matcher matcher = tagPattern.matcher(line);
-            boolean foundValidContent = false;
+    public static void main(String[] args) throws IOException {
+        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
 
-            while (matcher.find()) {
-                System.out.println(matcher.group(2));
-                foundValidContent = true;
-            }
+        String[] firstMultipleInput = bufferedReader.readLine().replaceAll("\\s+$", "").split(" ");
 
-            if (!foundValidContent) {
-                System.out.println("None");
-            }
+        int month = Integer.parseInt(firstMultipleInput[0]);
+        int day = Integer.parseInt(firstMultipleInput[1]);
+        int year = Integer.parseInt(firstMultipleInput[2]);
 
-            testCases--;
-        }
+        String res = Result.findDay(month, day, year);
+
+        bufferedWriter.write(res);
+        bufferedWriter.newLine();
+
+        bufferedReader.close();
+        bufferedWriter.close();
     }
 }
 
 ```
-Este código es fundamental para principiantes porque introduce el uso de Expresiones Regulares (Regex) mediante las clases Pattern y Matcher, herramientas esenciales para realizar búsquedas y extracciones de texto complejas de forma automatizada.
+Este código es superior para principiantes porque utiliza la clase Calendar, una herramienta estándar de Java que automatiza cálculos temporales complejos, como años bisiestos y la duración variable de los meses, evitando errores manuales de lógica matemática.
 
 ## Comprobación por HackerRank
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1494512379105509467/1498110142493884496/image.png?ex=69eff74b&is=69eea5cb&hm=4f53b1e39466d6dde46da9bb4463b7c862cb89255aa2e6d05f8049ef59652001&" alt="Ejercicio 10">
+  <img src="https://cdn.discordapp.com/attachments/1494512379105509467/1498115326724931624/image.png?ex=69effc1f&is=69eeaa9f&hm=551822b0c842313424f7f1b57ccbda88d1172becdfb6cce47939f97e4a350e00&" alt="Ejercicio 10">
 </div>
