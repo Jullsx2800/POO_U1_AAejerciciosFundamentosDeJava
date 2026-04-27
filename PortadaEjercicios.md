@@ -10,6 +10,24 @@
 
 Para realizar esta AA, utilizamos la plataforma HackerRank, la cual nos proporcionará ejercicios para practicar diferentes cualidades esenciales para programar en Java (sintaxis, lógica, etc.).
 
+## REGISTRO HACKERRANK
+
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1494512379105509467/1498129389467209909/image.png?ex=69f00938&is=69eeb7b8&hm=f1802ef996da47faf50a322dbb003dec4f1ac66ccb196f0798ecb7dc274f03b3&" alt="registro">
+</div>
+
+## RETOS DESARROLLADOS
+
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1494512379105509467/1498129913260281927/image.png?ex=69f009b5&is=69eeb835&hm=bb4334f968423781b1cb9b46a88644f87b059ca436e1364dd43f8353e8110267&" alt="1 plano">
+</div>
+
+
+
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1494512379105509467/1498130092365316167/image.png?ex=69f009df&is=69eeb85f&hm=3854e610bba1d416c8bcf347432686660e31425a5505c4c02c4861c45aec362a&" alt="2 plano">
+</div>
+
 ### 💡 NIVEL BÁSICO
 
 📌 [Ejercicio 1 (Java If-Else)](EjerciciosJava1.md)
